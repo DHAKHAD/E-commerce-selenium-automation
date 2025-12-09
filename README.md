@@ -11,7 +11,7 @@
 
 1️⃣ # Folder Structure:
 
-# ecommerce_automation/
+# E-commerce_automation/
 
  ├── Pages/
 
