@@ -6,8 +6,8 @@
 **2. Cart Page**
 ![Cart Page](Screenshots/error_20251209_151310.png)
 
-**3. Order Success Page**
-![Product View](Screenshots/screenshot#68.png)
+**3. Product View Page**
+![Product View](screenshot#68.png)
 
 1️⃣ Folder Structure:
 
