@@ -9,41 +9,35 @@
 **3. Order Success Page**
 ![Order Success](Screenshots/order.jpg)
 
-1️⃣ Folder Structure:
-
-# Note: This is a structured overview of the folder and files for your Selenium Automation project.
-
-# To use it, create this folder structure manually or with a script, then add the Python code below into corresponding files.
-
-# Folder Structure:
+1️⃣ # Folder Structure:
 
 # ecommerce_automation/
 
-# ├── Pages/
+ ├── Pages/
 
-# │ ├── HomePage.py
+ │ ├── HomePage.py
 
-# │ ├── PhonePDAPage.py
+ │ ├── PhonePDAPage.py
 
-# │ ├── iPhonePage.py
+ │ ├── iPhonePage.py
 
-# │ ├── LaptopPage.py
+ │ ├── LaptopPage.py
 
-# │ ├── HPpage.py
+ │ ├── HPpage.py
 
-# │ ├── CheckoutPage.py
+ │ ├── CheckoutPage.py
 
-# │ └── SuccessPage.py
+ │ └── SuccessPage.py
 
-# ├── Reports/ # Generated automatically by HtmlTestRunner
+ ├── Reports/ # Generated automatically by HtmlTestRunner
 
-# ├── Screenshots/ # Captured automatically on failures
+ ├── Screenshots/ # Captured automatically on failures
 
-# ├── drivers/ # ChromeDriver.exe or optional (webdriver-manager can auto-download)
+ ├── drivers/ # ChromeDriver.exe or optional (webdriver-manager can auto-download)
 
-# ├── ecomproject.py # Main test script
+ ├── ecomproject.py # Main test script
 
-# └── README.md # Complete project description
+ └── README.md # Complete project description
 
 2️⃣ README.md (Professional, GitHub Ready)
 
